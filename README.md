@@ -6,7 +6,7 @@
 The backend logic for MobiCommerce an ecommerce mobile platform based on the M.E.R.N (MongoDB, Express, React Native and NodeJS) stack.
 Here is the URL: https://mobicommerce-server.onrender.com/. It should display "Working" when you visit it.
 # Setup
-i. APIs
+i. A.P.Is
 
         User:
                       ● Login
